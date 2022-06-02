@@ -54,17 +54,16 @@ plt.imshow(img_dilate,cmap='gray')
 ### Display the input Image
 ![krishna 1](https://user-images.githubusercontent.com/75241177/171628993-5821b43a-9a84-4f14-895c-c73d4abd1439.jpg)
 
-![input image]
+
 
 ### Display the Eroded Image
 ![krishna  2](https://user-images.githubusercontent.com/75241177/171629010-02ca649f-17ed-4cb0-b31d-36ef35db71dd.jpg)
 
-![Eroded img]
 
 ### Display the Dilated Image
 ![krishna 1](https://user-images.githubusercontent.com/75241177/171629029-29313f7c-3962-4319-bdb5-1b4b24fa6fe8.jpg)
 
-![Dilated img]
+
 
 
 ## Result:
